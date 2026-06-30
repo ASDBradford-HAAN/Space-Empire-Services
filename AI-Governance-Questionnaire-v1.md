@@ -1,3 +1,17 @@
+Note:
+
+This questionnaire currently focuses on AI governance and AI-related operational risks.
+
+Future assessment modules may include:
+
+* Regulatory and compliance risk
+* Data protection and privacy
+* Website and SaaS operations
+* Crypto and digital asset activities
+* Licensing requirements
+* Governance structures
+* Cybersecurity and operational resilience
+
 # AI Governance Readiness Questionnaire v1
 
 ## Section 1 — Organization Overview
